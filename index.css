@@ -30,8 +30,13 @@ header {
     text-align: center;
     padding-top: 30px;
 }
+main {
+    width: 1440px;
+    height: auto;
+    margin: 0 auto;
+}
 .head_title{
-    font-size: 20px;
+    font-size: 48px;
     font-family:nanumB;
     font-weight: 400;
     color: #fff;
